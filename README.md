@@ -31,4 +31,3 @@
 <p><img src="ReadmeImages/login.png" alt="Login / Registration" width="600"></p>
 
 <h2>Made by Aayush</h2>
-<p>LinkedIn: <a href="https://www.linkedin.com/in/sarraayush">Aayush Sarra</a></p>

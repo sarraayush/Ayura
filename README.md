@@ -1,6 +1,6 @@
 
 <h1>AYURA</h1>
-<p><a href="https://sarraayush.github.io/Ayura/">Live Link</a></p>
+<p><a href="https://ayura1.netlify.app/">Live Link</a></p>
 <p>AYURA is a MERN stack ecommerce project that provides a platform for users to browse and purchase items for men, women, and kids. It includes features like adding items to the cart, wishlist, and user authentication.</p>
 
 <h2>How to Run Manually</h2>

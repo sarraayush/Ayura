@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ayura/static/css/main.d9652fc6.css",
-    "main.js": "/ayura/static/js/main.281cddff.js",
-    "static/media/kids-2.jpeg": "/ayura/static/media/kids-2.f09f98d1fa82c7f5fc80.jpeg",
-    "static/media/women-1.jpeg": "/ayura/static/media/women-1.a3ab3f0b92f8610cad9e.jpeg",
-    "static/media/men-1.jpeg": "/ayura/static/media/men-1.1be673ab928cc08bb100.jpeg",
-    "static/media/men2.png": "/ayura/static/media/men2.e2bb29b95d23d0e4e42f.png",
-    "index.html": "/ayura/index.html",
-    "main.d9652fc6.css.map": "/ayura/static/css/main.d9652fc6.css.map",
-    "main.281cddff.js.map": "/ayura/static/js/main.281cddff.js.map"
+    "main.css": "/Ayura/static/css/main.d9652fc6.css",
+    "main.js": "/Ayura/static/js/main.b1e86cf2.js",
+    "static/media/kids-2.jpeg": "/Ayura/static/media/kids-2.f09f98d1fa82c7f5fc80.jpeg",
+    "static/media/women-1.jpeg": "/Ayura/static/media/women-1.a3ab3f0b92f8610cad9e.jpeg",
+    "static/media/men-1.jpeg": "/Ayura/static/media/men-1.1be673ab928cc08bb100.jpeg",
+    "static/media/men2.png": "/Ayura/static/media/men2.e2bb29b95d23d0e4e42f.png",
+    "index.html": "/Ayura/index.html",
+    "main.d9652fc6.css.map": "/Ayura/static/css/main.d9652fc6.css.map",
+    "main.b1e86cf2.js.map": "/Ayura/static/js/main.b1e86cf2.js.map"
   },
   "entrypoints": [
     "static/css/main.d9652fc6.css",
-    "static/js/main.281cddff.js"
+    "static/js/main.b1e86cf2.js"
   ]
 }

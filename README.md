@@ -1,55 +1,33 @@
-# MERN Ecommerce Application
 
-<code>Currently under construction for additional features</code>
+<h1>AYURA</h1>
+<p><a href="https://sarraayush.github.io/Ayura/">Live Link</a></p>
+<p>AYURA is a MERN stack ecommerce project that provides a platform for users to browse and purchase items for men, women, and kids. It includes features like adding items to the cart, wishlist, and user authentication.</p>
 
-# Description
+<h2>How to Run Manually</h2>
+<ol>
+<li><strong>Download the Project</strong>: Clone or download the repository to your local machine.</li>
+<li><strong>Navigate to the Project Folder</strong>: Open the project folder where the <code>package.json</code> file is located.</li>
+<li><strong>Install Dependencies</strong>: Open your terminal and run:
+<pre><code>npm i</code></pre>
+</li>
+<li><strong>Start the Application</strong>
+<pre><code>npm start</code></pre>
+</li>
+<li><strong>Access the Website</strong>: You will be redirected to the website.</li>
+</ol>
 
-Full-stack ecommerce application built with MERN stack. This project has two features:
+<h2>Features</h2>
 
-1. Buyers register and browse the marketplace while interacting with products across different categories.
-2. Admins control and manage the marketplace items and customer acounts.
+<h3>Selecting Items for Men, Women, and Kids</h3>
+<p><img src="ReadmeImages/items.png" alt="Items for men, women, kids" width="600"></p>
 
-# Getting Started
+<h3>Add Items to Cart</h3>
+<p><img src="ReadmeImages/cart.png" alt="Add to cart" width="600"></p>
 
-## Dependencies
+<h3>Add Items to Wishlist</h3>
+<p><img src="ReadmeImages/wishlist.png" alt="Add to wishlist" width="600"></p>
 
-- Nodejs - The runtime environment of the application
-- Reactjs - Component based UI library
-- MongoDB - NoSQL database
-- Expressjs - Framework to handle routes and requests
-- Mongoose - MongoDB object modeling tool to model the database schema
+<h3>Login / Registration</h3>
+<p><img src="ReadmeImages/login.png" alt="Login / Registration" width="600"></p>
 
-## Installation
-
-After you cloned the repository do not start the application. To run the application fully you need to create a database and collection and provide your own database URI.
-
-### Setup
-
-- Go to MongoDB website and create a database and a collection named 'Items' and insert the data in the <code>server/ItemsCollection.js</code> file as a document.
-- Create a .env file in the server folder and type the following
-
-```
-    NODE_ENV = development
-    PORT = 5000
-    MONGO_URI = mongodb+srv://<your uri from mongodb website>
-```
-
-### Running
-
-After this you can run the project locally:
-
-- To run the front end
-  - <code>cd client</code>
-  - <code>npm start</code>
-- To run the back end
-  - <code>cd server</code>
-  - <code>npm run dev</code>
-    TIP: Run both in split terminal so that you can see both ends running
-
-# Languages and tools
-
-- [Node](https://nodejs.org)
-- [React](https://reactjs.org/)
-- [Expressjs](https://expressjs.com)
-- [Mongoose](https://mongoosejs.com)
-- [Material UI](https://mui.com/)
+<h2>Made by Aayush</h2>

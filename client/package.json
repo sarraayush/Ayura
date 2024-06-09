@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sarraayush.github.io/Ayura",
   "name": "ecommerce",
+  "homepage": "https://sarraayush.github.io/Ayura",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
